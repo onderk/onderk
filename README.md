@@ -87,13 +87,13 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 22.10.2026 | 136 | 21 | 9 | 50 | 38 | 0 |
-| 21.10.2026 | 329 | 18 | 31 | 46 | 23 | 0 |
-| 20.10.2026 | 325 | 17 | 31 | 0 | 0 | 0 |
-| 19.10.2026 | 183 | — | — | — | — | — |
-| 18.10.2026 | 292 | — | — | — | — | — |
-| 17.10.2026 | 82 | — | — | — | — | — |
-| 16.10.2026 | 195 | — | — | — | — | — |
+| 22.10.2026 | 182 | 1 | 0 | 0 | 0 | 0 |
+| 21.10.2026 | 329 | 0 | 0 | 0 | 0 | 0 |
+| 20.10.2026 | 325 | 0 | 0 | 0 | 0 | 0 |
+| 19.10.2026 | 183 | 0 | 0 | 0 | 0 | 0 |
+| 18.10.2026 | 292 | 0 | 0 | 0 | 0 | 0 |
+| 17.10.2026 | 82 | 0 | 0 | 0 | 0 | 0 |
+| 16.10.2026 | 195 | 1 | 0 | 0 | 0 | 0 |
 
 <sub>— = older than the event window GitHub keeps / GitHub'ın olay kaydı süresinden eski</sub>
 
@@ -101,20 +101,15 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
-| 22.10.2026 13:25 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 13:09 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 12:58 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 22.10.2026 12:58 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 12:36 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 12:32 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
-| 22.10.2026 12:32 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 22.10.2026 12:32 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
-| 22.10.2026 12:28 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 22.10.2026 12:28 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 12:26 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 22.10.2026 12:26 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 22.10.2026 14:25 | [onderk](https://github.com/onderk/onderk) | 🌿 Branch created / Dal açıldı | main |
+| 04.10.2026 17:04 | [CNanoKit](https://github.com/onderk/CNanoKit) | 🚀 Release / Sürüm | CNanoKit 1.1 |
+| 01.10.2026 16:08 | [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | 💬 Comment / Yorum |  |
+| 01.10.2026 02:10 | [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | 💬 Comment / Yorum |  |
+| 01.10.2026 01:15 | [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | 📝 Issue / Konu |  |
+| 01.10.2026 01:15 | [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | 📝 Issue / Konu |  |
+| 01.10.2026 01:15 | [kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | 📝 Issue / Konu |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 22.10.2026 14:10 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 22.10.2026 14:40 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
