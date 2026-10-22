@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="One MCU core skill, many product types / Tek çekirdek yetenek, birçok ürün türü">
   <style>
     .t{font-family:Segoe UI,Helvetica,Arial,sans-serif}
-    .h{font-size:15px;font-weight:700;fill:#1f2328}
-    .tr{font-size:12px;fill:#0f766e}
-    .s{font-size:12px;fill:#57606a}
+    .h{font-size:16px;font-weight:700;fill:#1f2328}
+    .tr{font-size:13px;fill:#0f766e}
+    .s{font-size:13px;fill:#57606a}
     .card{fill:#ffffff;stroke:#d0d7de;stroke-width:1.5}
     .tr-line{fill:none;stroke:#0d9488;stroke-width:2;opacity:.45}
   </style>
@@ -19,8 +19,8 @@
   </defs>
   <rect width="1200" height="390" rx="18" fill="#f6f8fa"/>
 
-  <text x="600" y="48" text-anchor="middle" class="t" font-size="21" font-weight="700" fill="#1f2328">One core skill, many products</text>
-  <text x="600" y="72" text-anchor="middle" class="t" font-size="15" fill="#0f766e">Tek çekirdek yetenek, birçok ürün</text>
+  <text x="600" y="48" text-anchor="middle" class="t" font-size="23" font-weight="700" fill="#1f2328">One core skill, many products</text>
+  <text x="600" y="72" text-anchor="middle" class="t" font-size="17" fill="#0f766e">Tek çekirdek yetenek, birçok ürün</text>
 
   <g class="tr-line">
     <use href="#L1"/><use href="#L2"/><use href="#L3"/><use href="#L4"/>
@@ -45,8 +45,8 @@
     <g stroke="#57606a" stroke-width="3">
       <path d="M20 0V-10M45 0V-10M70 0V-10M95 0V-10M120 0V-10M140 0V-10M20 80V90M45 80V90M70 80V90M95 80V90M120 80V90M140 80V90"/>
     </g>
-    <text x="80" y="36" text-anchor="middle" font-family="Consolas,monospace" font-size="20" fill="#0e7490">MCU</text>
-    <text x="80" y="58" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#6e7781">PIC · ESP32 · STM32</text>
+    <text x="80" y="36" text-anchor="middle" font-family="Consolas,monospace" font-size="22" fill="#0e7490">MCU</text>
+    <text x="80" y="58" text-anchor="middle" font-family="Consolas,monospace" font-size="12" fill="#6e7781">PIC · ESP32 · STM32</text>
   </g>
 
   <text x="600" y="290" text-anchor="middle" class="t s">hardware + firmware + PCB</text>
@@ -55,24 +55,24 @@
   <!-- left cards -->
   <g class="t">
     <g transform="translate(30 40)"><rect class="card" width="240" height="70" rx="10"/><rect width="5" height="70" rx="2" fill="#f59e0b"/>
-      <text x="18" y="24" class="h">⚙️ Motor &amp; power control</text><text x="18" y="42" class="tr">Motor ve güç kontrolü</text><text x="18" y="59" class="s">inverter · SMPS · SiC/GaN</text></g>
+      <text x="18" y="25" class="h">⚙️ Motor &amp; power control</text><text x="18" y="44" class="tr">Motor ve güç kontrolü</text><text x="18" y="62" class="s">inverter · SMPS · SiC/GaN</text></g>
     <g transform="translate(30 125)"><rect class="card" width="240" height="70" rx="10"/><rect width="5" height="70" rx="2" fill="#f472b6"/>
-      <text x="18" y="24" class="h">🩺 Medical devices</text><text x="18" y="42" class="tr">Tıbbi cihazlar</text><text x="18" y="59" class="s">laser · plasma · piezo</text></g>
+      <text x="18" y="25" class="h">🩺 Medical devices</text><text x="18" y="44" class="tr">Tıbbi cihazlar</text><text x="18" y="62" class="s">laser · plasma · piezo</text></g>
     <g transform="translate(30 210)"><rect class="card" width="240" height="70" rx="10"/><rect width="5" height="70" rx="2" fill="#059669"/>
-      <text x="18" y="24" class="h">📏 Sensing &amp; measurement</text><text x="18" y="42" class="tr">Algılama ve ölçüm</text><text x="18" y="59" class="s">ADC · signal chain · logging</text></g>
+      <text x="18" y="25" class="h">📏 Sensing &amp; measurement</text><text x="18" y="44" class="tr">Algılama ve ölçüm</text><text x="18" y="62" class="s">ADC · signal chain · logging</text></g>
     <g transform="translate(30 295)"><rect class="card" width="240" height="70" rx="10"/><rect width="5" height="70" rx="2" fill="#fbbf24"/>
-      <text x="18" y="24" class="h">🖥️ HMI &amp; displays</text><text x="18" y="42" class="tr">Operatör paneli ve ekranlar</text><text x="18" y="59" class="s">touch panel · PC tools</text></g>
+      <text x="18" y="25" class="h">🖥️ HMI &amp; displays</text><text x="18" y="44" class="tr">Operatör paneli ve ekranlar</text><text x="18" y="62" class="s">touch panel · PC tools</text></g>
   </g>
 
   <!-- right cards -->
   <g class="t">
     <g transform="translate(930 40)"><rect class="card" width="240" height="70" rx="10"/><rect width="5" height="70" rx="2" fill="#059669"/>
-      <text x="18" y="24" class="h">📡 IoT &amp; cloud</text><text x="18" y="42" class="tr">IoT ve bulut</text><text x="18" y="59" class="s">Wi-Fi · BLE · MQTT · OTA</text></g>
+      <text x="18" y="25" class="h">📡 IoT &amp; cloud</text><text x="18" y="44" class="tr">IoT ve bulut</text><text x="18" y="62" class="s">Wi-Fi · BLE · MQTT · OTA</text></g>
     <g transform="translate(930 125)"><rect class="card" width="240" height="70" rx="10"/><rect width="5" height="70" rx="2" fill="#60a5fa"/>
-      <text x="18" y="24" class="h">🌐 Web dashboards</text><text x="18" y="42" class="tr">Web panelleri</text><text x="18" y="59" class="s">browser UI · Web Serial</text></g>
+      <text x="18" y="25" class="h">🌐 Web dashboards</text><text x="18" y="44" class="tr">Web panelleri</text><text x="18" y="62" class="s">browser UI · Web Serial</text></g>
     <g transform="translate(930 210)"><rect class="card" width="240" height="70" rx="10"/><rect width="5" height="70" rx="2" fill="#0891b2"/>
-      <text x="18" y="24" class="h">📱 Mobile &amp; desktop apps</text><text x="18" y="42" class="tr">Mobil ve masaüstü uygulamalar</text><text x="18" y="59" class="s">control · monitoring</text></g>
+      <text x="18" y="25" class="h">📱 Mobile &amp; desktop apps</text><text x="18" y="44" class="tr">Mobil ve masaüstü uygulamalar</text><text x="18" y="62" class="s">control · monitoring</text></g>
     <g transform="translate(930 295)"><rect class="card" width="240" height="70" rx="10"/><rect width="5" height="70" rx="2" fill="#a78bfa"/>
-      <text x="18" y="24" class="h">🤖 AI-assisted design</text><text x="18" y="42" class="tr">Yapay zekâ destekli tasarım</text><text x="18" y="59" class="s">automated checks · agents</text></g>
+      <text x="18" y="25" class="h">🤖 AI-assisted design</text><text x="18" y="44" class="tr">Yapay zekâ destekli tasarım</text><text x="18" y="62" class="s">automated checks · agents</text></g>
   </g>
 </svg>
