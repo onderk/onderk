@@ -87,9 +87,9 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 22.10.2026 | 297 | 23 | 24 | 104 | 63 | 0 |
-| 21.10.2026 | 329 | 17 | 18 | 0 | 0 | 0 |
-| 20.10.2026 | 325 | 18 | 32 | 0 | 0 | 0 |
+| 22.10.2026 | 312 | 23 | 27 | 112 | 66 | 0 |
+| 21.10.2026 | 329 | 16 | 11 | 0 | 0 | 0 |
+| 20.10.2026 | 325 | 17 | 27 | 0 | 0 | 0 |
 | 19.10.2026 | 183 | — | — | — | — | — |
 | 18.10.2026 | 292 | — | — | — | — | — |
 | 17.10.2026 | 82 | — | — | — | — | — |
@@ -101,20 +101,20 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 22.10.2026 17:27 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 22.10.2026 17:23 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 22.10.2026 17:11 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 22.10.2026 17:05 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 22.10.2026 17:05 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 22.10.2026 17:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 22.10.2026 17:04 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 22.10.2026 17:04 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 22.10.2026 16:57 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 22.10.2026 16:57 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
 | 22.10.2026 16:56 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 22.10.2026 16:41 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 16:38 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 16:38 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 16:38 | 🔒 Private / Gizli | 🌿 Branch created / Dal açıldı |  |
-| 22.10.2026 16:38 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 16:38 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 22.10.2026 16:37 | 🔒 Private / Gizli | 🌿 Branch created / Dal açıldı |  |
+| 22.10.2026 16:52 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 22.10.2026 17:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 22.10.2026 18:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
