@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Map of private work areas / Gizli çalışma alanları haritası">
+  <style>
+    .t{font-family:Segoe UI,Helvetica,Arial,sans-serif}
+    .h{font-size:18px;font-weight:700;fill:#1f2328}
+    .tr{font-size:13px;fill:#0f766e}
+    .d{font-size:13px;fill:#57606a}
+    .n{font-size:12px;fill:#059669;font-family:Consolas,monospace}
+    .card{fill:#ffffff;stroke:#d0d7de;stroke-width:1.5}
+  </style>
+  <rect width="1200" height="440" rx="18" fill="#f6f8fa"/>
+  <text x="40" y="44" class="t" font-size="21" font-weight="700" fill="#1f2328">What I build — behind private repositories</text>
+  <text x="40" y="68" class="t tr" font-size="15">Gizli depoların arkasında ne yapıyorum</text>
+  <text x="40" y="90" class="t d">Source stays private; areas, goals and skills are shown. / Kaynak gizli kalır; alanlar, amaçlar ve yetenekler gösterilir.</text>
+
+  <g class="t">
+  <g transform="translate(40 110)"><rect class="card" width="360" height="145" rx="12"/><rect width="6" height="145" rx="3" fill="#f59e0b"/>
+    <text x="24" y="32" class="h">⚡ Power electronics</text><text x="24" y="52" class="tr">Güç elektroniği</text>
+    <text x="24" y="78" class="d">SiC / GaN power stages, supplies,</text><text x="24" y="96" class="d">high-power drivers, signal generators</text>
+    <text x="24" y="126" class="n">schematic · simulation · PCB</text></g>
+  <g transform="translate(420 110)"><rect class="card" width="360" height="145" rx="12"/><rect width="6" height="145" rx="3" fill="#0891b2"/>
+    <text x="24" y="32" class="h">🔧 Embedded firmware</text><text x="24" y="52" class="tr">Gömülü yazılım</text>
+    <text x="24" y="78" class="d">PIC / dsPIC, ESP32, STM32 · bootloaders,</text><text x="24" y="96" class="d">safe OTA updates, robust serial links</text>
+    <text x="24" y="126" class="n">C · C++ · Assembly · BASIC (Positron)</text></g>
+  <g transform="translate(800 110)"><rect class="card" width="360" height="145" rx="12"/><rect width="6" height="145" rx="3" fill="#f472b6"/>
+    <text x="24" y="32" class="h">🩺 Medical &amp; laser devices</text><text x="24" y="52" class="tr">Tıbbi ve lazer cihazlar</text>
+    <text x="24" y="78" class="d">Laser, cold plasma and piezo drivers</text><text x="24" y="96" class="d">designed with safety and EMC in mind</text>
+    <text x="24" y="126" class="n">IEC 60601 · IEC 61000-4-x</text></g>
+
+  <g transform="translate(40 275)"><rect class="card" width="360" height="145" rx="12"/><rect width="6" height="145" rx="3" fill="#059669"/>
+    <text x="24" y="32" class="h">🌱 Agri-tech &amp; electrolysis</text><text x="24" y="52" class="tr">Tarım teknolojisi ve elektroliz</text>
+    <text x="24" y="78" class="d">Disinfectant generator: power stage,</text><text x="24" y="96" class="d">control firmware and sensing</text>
+    <text x="24" y="126" class="n">hardware + firmware + IoT</text></g>
+  <g transform="translate(420 275)"><rect class="card" width="360" height="145" rx="12"/><rect width="6" height="145" rx="3" fill="#a78bfa"/>
+    <text x="24" y="32" class="h">🤖 AI-assisted engineering</text><text x="24" y="52" class="tr">Yapay zekâ destekli mühendislik</text>
+    <text x="24" y="78" class="d">Multi-agent rule system, KiCad / SPICE</text><text x="24" y="96" class="d">automation, design-check pipelines</text>
+    <text x="24" y="126" class="n">Python · MCP · CI gates</text></g>
+  <g transform="translate(800 275)"><rect class="card" width="360" height="145" rx="12"/><rect width="6" height="145" rx="3" fill="#60a5fa"/>
+    <text x="24" y="32" class="h">🛠️ Developer tooling</text><text x="24" y="52" class="tr">Geliştirici araçları</text>
+    <text x="24" y="78" class="d">One-key compile / program / monitor,</text><text x="24" y="96" class="d">decision-support and data tools</text>
+    <text x="24" y="126" class="n">PowerShell · TypeScript · Python</text></g>
+  </g>
+</svg>

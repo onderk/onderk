@@ -1,0 +1,43 @@
+# Updates the contribution graph and activity table.
+# Katkı grafiğini ve hareket tablosunu günceller.
+#
+# Security / Güvenlik:
+# - only schedule + manual start; never runs on pull requests (no fork code)
+# - actions pinned to full commit SHA (tag can be moved, SHA cannot)
+# - no ${{ }} expressions inside run: steps (no script injection)
+# - token is read-only; GITHUB_TOKEN may only write this repo's contents
+name: profile-update
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+      - name: Build graph and activity
+        env:
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: python scripts/profile_update.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/contributions*.svg
+          git diff --cached --quiet || git commit -m "chore: update profile activity"
+          git push

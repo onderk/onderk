@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-label="onderk — Power Electronics, Embedded Systems, Medical Device R&amp;D, IoT, Web, AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0f2a2e"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1e3a44" stroke-width="0.6"/></pattern>
+    <path id="bus" d="M70 330H530"/>
+  </defs>
+  <rect width="600" height="520" rx="18" fill="url(#bg)"/>
+  <rect width="600" height="520" rx="18" fill="url(#grid)" opacity="0.5"/>
+  <g font-family="Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="40" y="70" font-size="50" font-weight="700" fill="#f1f5f9">onderk</text>
+    <text x="40" y="108" font-size="23" fill="url(#glow)">Power Electronics · Embedded</text>
+    <text x="40" y="136" font-size="23" fill="url(#glow)">Systems · Medical Device R&amp;D</text>
+    <text x="40" y="164" font-size="18" fill="#5eead4">Güç Elektroniği · Gömülü · Tıbbi Ar-Ge</text>
+    <text x="40" y="200" font-size="20" fill="#a5b4fc">+ IoT · Web · AI-assisted engineering</text>
+    <text x="40" y="226" font-size="17" fill="#a5b4fc" opacity="0.85">+ IoT · Web · Yapay zekâ destekli</text>
+    <text x="40" y="258" font-size="16" fill="#94a3b8">33+ years / yıl · 300+ circuits / devre</text>
+  </g>
+  <use href="#bus" fill="none" stroke="#2dd4bf" stroke-width="2" opacity="0.45"/>
+  <circle r="4" fill="#67e8f9"><animateMotion dur="3s" repeatCount="indefinite"><mpath href="#bus"/></animateMotion></circle>
+  <g font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#94a3b8" text-anchor="middle">
+    <g transform="translate(70 330)">
+      <circle r="30" fill="#0f172a" stroke="#f59e0b" stroke-width="2.5"/>
+      <path d="M4 -16L-11 4H0L-4 18L11 -3H0Z" fill="#f59e0b"><animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></path>
+      <text y="56">Power</text><text y="76" font-size="14" fill="#5eead4">Güç</text></g>
+    <g transform="translate(185 330)">
+      <circle r="30" fill="#0f172a" stroke="#34d399" stroke-width="2.5"/>
+      <circle cy="11" r="3.5" fill="#34d399"/>
+      <g fill="none" stroke="#34d399" stroke-width="3" stroke-linecap="round">
+        <path d="M-9 3Q0 -5 9 3"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.8;1" dur="1.8s" repeatCount="indefinite"/></path>
+        <path d="M-16 -5Q0 -19 16 -5"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.35;0.8;1" dur="1.8s" repeatCount="indefinite"/></path></g>
+      <text y="56">IoT</text><text y="76" font-size="14" fill="#5eead4">IoT</text></g>
+    <g transform="translate(300 330)">
+      <circle r="30" fill="#0f172a" stroke="#a78bfa" stroke-width="2.5"/>
+      <g stroke="#a78bfa" stroke-width="1.8"><path d="M-13 -11L13 0M-13 11L13 0M-13 -11L0 0M-13 11L0 0M0 0H13"/></g>
+      <g fill="#c4b5fd"><circle cx="-13" cy="-11" r="4"><animate attributeName="r" values="4;5.5;4" dur="1.4s" repeatCount="indefinite"/></circle>
+        <circle cx="-13" cy="11" r="4"><animate attributeName="r" values="4;5.5;4" dur="1.4s" begin="0.45s" repeatCount="indefinite"/></circle>
+        <circle r="3.5"/><circle cx="13" r="4"><animate attributeName="r" values="4;5.5;4" dur="1.4s" begin="0.9s" repeatCount="indefinite"/></circle></g>
+      <text y="56">AI</text><text y="76" font-size="14" fill="#5eead4">YZ</text></g>
+    <g transform="translate(415 330)">
+      <circle r="30" fill="#0f172a" stroke="#60a5fa" stroke-width="2.5"/>
+      <rect x="-17" y="-13" width="34" height="26" rx="3" fill="none" stroke="#60a5fa" stroke-width="2"/>
+      <path d="M-17 -6H17" stroke="#60a5fa" stroke-width="2"/><path d="M-11 1H5M-11 7H-1" stroke="#93c5fd" stroke-width="1.8"/>
+      <rect x="2" y="3" width="2" height="7" fill="#93c5fd"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+      <text y="56">Web</text><text y="76" font-size="14" fill="#5eead4">Web</text></g>
+    <g transform="translate(530 330)">
+      <circle r="30" fill="#0f172a" stroke="#f472b6" stroke-width="2.5"/>
+      <path d="M-19 1h9l4-12l6 24l4-12h15" fill="none" stroke="#f472b6" stroke-width="2.2" stroke-dasharray="70" stroke-dashoffset="70">
+        <animate attributeName="stroke-dashoffset" values="70;0;0" keyTimes="0;0.6;1" dur="1.5s" repeatCount="indefinite"/></path>
+      <text y="56">Medical</text><text y="76" font-size="14" fill="#5eead4">Tıbbi</text></g>
+  </g>
+  <!-- waveform cycle: square (PWM) -> sine -> EEG, 3 s each -->
+  <g transform="translate(40 470) scale(1.05)">
+    <g opacity="0">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.32;0.34;1" dur="9s" repeatCount="indefinite"/>
+      <path d="M0 13h36v-26h36v26h36v-26h36v26h36v-26h36v26h36v-26h36v26h36v-26h36v26h36v-26h36v26" pathLength="100" fill="none" stroke="url(#glow)" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="100" stroke-dashoffset="100">
+        <animate attributeName="stroke-dashoffset" values="100;0;0" keyTimes="0;0.2;1" dur="9s" repeatCount="indefinite"/>
+      </path>
+      <text x="0" y="-24" font-family="Consolas,monospace" font-size="15" fill="#5eead4">PWM</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32;0.34;0.65;0.67;1" dur="9s" repeatCount="indefinite"/>
+      <path d="M0 0 q18 -26 36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0" pathLength="100" fill="none" stroke="url(#glow)" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="100" stroke-dashoffset="100">
+        <animate attributeName="stroke-dashoffset" values="100;100;0;0" keyTimes="0;0.33;0.53;1" dur="9s" repeatCount="indefinite"/>
+      </path>
+      <text x="0" y="-24" font-family="Consolas,monospace" font-size="15" fill="#5eead4">SINE / SİNÜS</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.65;0.67;0.98;1" dur="9s" repeatCount="indefinite"/>
+      <path d="M0 2.9 L3 5.3 L6 2.8 L9 5.8 L12 6.4 L15 -1.8 L18 -5.8 L21 -0.7 L24 0.8 L27 -1.5 L30 3.2 L33 7.4 L36 0.8 L39 -5.5 L42 -3.8 L45 -4.4 L48 -22.0 L51 18.0 L54 5.7 L57 5.1 L60 1.7 L63 4.2 L66 2.8 L69 -4.9 L72 -4.9 L75 2.3 L78 3.1 L81 1.3 L84 5.7 L87 6.3 L90 -2.7 L93 -7.4 L96 -4.0 L99 -4.6 L102 -6.5 L105 0.5 L108 7.1 L111 3.1 L114 -0.6 L117 1.8 L120 -0.6 L123 -6.3 L126 -2.1 L129 5.7 L132 4.9 L135 2.9 L138 6.3 L141 3.6 L144 -22.0 L147 18.0 L150 -2.8 L153 -3.4 L156 -3.8 L159 3.5 L162 6.5 L165 -0.3 L168 -3.3 L171 -0.5 L174 -3.0 L177 -5.6 L180 1.7 L183 8.4 L186 5.3 L189 3.2 L192 5.3 L195 0.3 L198 -7.9 L201 -5.9 L204 -0.2 L207 -1.4 L210 -1.0 L213 5.0 L216 3.9 L219 -4.5 L222 -5.5 L225 -1.8 L228 -3.7 L231 -3.4 L234 5.4 L237 9.5 L240 -22.0 L243 18.0 L246 3.3 L249 -2.5 L252 -7.9 L255 -2.4 L258 2.9 L261 0.4 L264 0.8 L267 4.7 L270 -0.0 L273 -8.1 L276 -6.3 L279 -1.7 L282 -3.1 L285 -0.5 L288 8.0 L291 8.4 L294 1.3 L297 0.3 L300 1.4 L303 -4.0 L306 -5.7 L309 2.1 L312 5.6 L315 1.3 L318 1.3 L321 2.8 L324 -4.1 L327 -10.1 L330 -5.2 L333 -0.5 L336 -22.0 L339 18.0 L342 8.7 L345 5.2 L348 -2.1 L351 -1.2 L354 0.3 L357 -3.8 L360 -2.0 L363 6.4 L366 6.8 L369 0.8 L372 0.6 L375 0.3 L378 -7.3 L381 -9.9 L384 -2.5 L387 1.3 L390 -0.5 L393 3.3 L396 7.1 L399 0.7 L402 -5.2 L405 -1.6 L408 0.4 L411 -2.1 L414 2.2 L417 9.4 L420 6.0 L423 -0.8 L426 -0.7 L429 -2.0 L432 -22.0" pathLength="100" fill="none" stroke="url(#glow)" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="100" stroke-dashoffset="100">
+        <animate attributeName="stroke-dashoffset" values="100;100;0;0" keyTimes="0;0.66;0.86;1" dur="9s" repeatCount="indefinite"/>
+      </path>
+      <text x="0" y="-24" font-family="Consolas,monospace" font-size="15" fill="#5eead4">EEG</text>
+    </g>
+  </g>
+</svg>
