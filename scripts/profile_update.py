@@ -279,18 +279,28 @@ def activity_block(cal: dict) -> str:
 
 
 def main() -> None:
+    """--graph: only the green graph (GitHub Actions, narrow token).
+    --activity: only the README activity table (owner's computer: needs a token that sees private events).
+    No option: both."""
+    args = set(sys.argv[1:])
+    do_graph = not args or "--graph" in args
+    do_activity = not args or "--activity" in args
     cal = calendar()
-    for theme in ("dark", "light"):
-        for size in ("desktop", "phone"):
-            name = "contributions" + ("_m" if size == "phone" else "") + ("_light" if theme == "light" else "")
-            (SVG_OUT.parent / f"{name}.svg").write_text(contribution_svg(cal, theme, size), encoding="utf-8")
+    if do_graph:
+        for theme in ("dark", "light"):
+            for size in ("desktop", "phone"):
+                name = "contributions" + ("_m" if size == "phone" else "") + ("_light" if theme == "light" else "")
+                (SVG_OUT.parent / f"{name}.svg").write_text(contribution_svg(cal, theme, size), encoding="utf-8")
+        print("ok: contributions (4 variants)")
+    if not do_activity:
+        return
     text = README.read_text(encoding="utf-8")
     if START not in text or END not in text:
         sys.exit("ACTIVITY markers not found in README / README'de işaretler yok")
     head, rest = text.split(START, 1)
     tail = rest.split(END, 1)[1]
     README.write_text(head + activity_block(cal) + tail, encoding="utf-8", newline="\n")
-    print("ok: contributions (4 variants) + README activity block")
+    print("ok: README activity block")
 
 
 if __name__ == "__main__":
