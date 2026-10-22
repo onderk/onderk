@@ -80,7 +80,7 @@ THEMES = {
                          "THIRD_QUARTILE": "#30a14e", "FOURTH_QUARTILE": "#216e39"}},
 }
 SIZES = {  # desktop: full year, phone: last 22 weeks with bigger cells and text
-    "desktop": {"weeks": None, "cell": 11, "gap": 3, "left": 46, "top": 58, "h1": 15, "h2": 12, "small": 9, "legend": 10},
+    "desktop": {"weeks": None, "cell": 11, "gap": 3, "left": 46, "top": 70, "h1": 15, "h2": 12, "small": 9, "legend": 10},
     "phone": {"weeks": 22, "cell": 20, "gap": 4, "left": 62, "top": 92, "h1": 21, "h2": 16, "small": 13, "legend": 14},
 }
 
