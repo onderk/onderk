@@ -87,10 +87,10 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 23.10.2026 | 78 | 23 | 9 | 26 | 23 | 0 |
-| 22.10.2026 | 323 | 22 | 55 | 3 | 59 | 0 |
+| 23.10.2026 | 79 | 23 | 10 | 27 | 26 | 0 |
+| 22.10.2026 | 323 | 22 | 55 | 2 | 56 | 0 |
 | 21.10.2026 | 329 | 20 | 30 | 0 | 0 | 0 |
-| 20.10.2026 | 325 | 1 | 4 | 0 | 0 | 0 |
+| 20.10.2026 | 325 | 1 | 3 | 0 | 0 | 0 |
 | 19.10.2026 | 183 | — | — | — | — | — |
 | 18.10.2026 | 292 | — | — | — | — | — |
 | 17.10.2026 | 82 | — | — | — | — | — |
@@ -101,20 +101,20 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 23.10.2026 21:46 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 23.10.2026 20:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 23.10.2026 18:56 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 23.10.2026 18:56 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 23.10.2026 18:55 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 23.10.2026 18:55 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 23.10.2026 18:55 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 23.10.2026 17:04 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 23.10.2026 16:27 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 23.10.2026 16:26 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 23.10.2026 16:26 | 🔒 Private / Gizli | 🌿 Branch created / Dal açıldı |  |
 | 23.10.2026 16:21 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 23.10.2026 16:21 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 23.10.2026 16:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 23.10.2026 15:25 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 23.10.2026 15:23 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 23.10.2026 14:31 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 23.10.2026 21:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 23.10.2026 22:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
