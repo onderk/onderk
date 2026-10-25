@@ -87,9 +87,9 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 25.10.2026 | 42 | 3 | 10 | 14 | 14 | 0 |
+| 25.10.2026 | 47 | 3 | 10 | 16 | 16 | 0 |
 | 24.10.2026 | 121 | 25 | 38 | 47 | 46 | 0 |
-| 23.10.2026 | 100 | 13 | 31 | 12 | 13 | 0 |
+| 23.10.2026 | 100 | 13 | 29 | 12 | 11 | 0 |
 | 22.10.2026 | 323 | 1 | 0 | 0 | 0 | 0 |
 | 21.10.2026 | 329 | — | — | — | — | — |
 | 20.10.2026 | 325 | — | — | — | — | — |
@@ -101,6 +101,10 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 25.10.2026 07:32 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 25.10.2026 07:19 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 25.10.2026 07:19 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 25.10.2026 07:19 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 25.10.2026 06:05 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
 | 25.10.2026 06:05 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 25.10.2026 06:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
@@ -109,12 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 25.10.2026 05:47 | 🔒 Private / Gizli | 🌿 Branch created / Dal açıldı |  |
 | 25.10.2026 05:47 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 25.10.2026 05:47 | 🔒 Private / Gizli | 🌿 Branch created / Dal açıldı |  |
-| 25.10.2026 05:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 25.10.2026 04:58 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
-| 25.10.2026 04:58 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 25.10.2026 04:47 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 25.10.2026 07:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 25.10.2026 08:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
