@@ -87,8 +87,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 26.10.2026 | 92 | 23 | 21 | 33 | 32 | 0 |
-| 25.10.2026 | 164 | 24 | 51 | 40 | 39 | 0 |
+| 26.10.2026 | 99 | 24 | 27 | 37 | 34 | 0 |
+| 25.10.2026 | 164 | 24 | 47 | 35 | 35 | 0 |
 | 24.10.2026 | 121 | 15 | 14 | 0 | 0 | 0 |
 | 23.10.2026 | 100 | — | — | — | — | — |
 | 22.10.2026 | 323 | — | — | — | — | — |
@@ -101,20 +101,20 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 26.10.2026 13:56 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 26.10.2026 13:30 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 26.10.2026 13:27 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 26.10.2026 13:24 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 26.10.2026 13:09 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 26.10.2026 13:05 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 26.10.2026 13:00 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 26.10.2026 12:59 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 26.10.2026 12:58 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 26.10.2026 12:54 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 26.10.2026 12:40 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 26.10.2026 12:39 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 26.10.2026 12:39 | 🔒 Private / Gizli | ⚪ PR closed / kapatıldı |  |
-| 26.10.2026 12:39 | 🔒 Private / Gizli | 💬 Comment / Yorum |  |
-| 26.10.2026 12:39 | 🔒 Private / Gizli | ⚪ PR closed / kapatıldı |  |
-| 26.10.2026 12:39 | 🔒 Private / Gizli | 💬 Comment / Yorum |  |
-| 26.10.2026 12:39 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 26.10.2026 12:37 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 26.10.2026 13:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 26.10.2026 14:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
