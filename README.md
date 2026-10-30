@@ -89,7 +89,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
 | 31.10.2026 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 30.10.2026 | 185 | 22 | 0 | 72 | 71 | 0 |
-| 29.10.2026 | 3 | 1 | 14 | 0 | 0 | 0 |
+| 29.10.2026 | 3 | 1 | 15 | 0 | 0 | 0 |
 | 28.10.2026 | 73 | 8 | 46 | 23 | 28 | 0 |
 | 27.10.2026 | 28 | 5 | 8 | 0 | 0 | 0 |
 | 26.10.2026 | 159 | — | — | — | — | — |
@@ -114,7 +114,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 30.10.2026 17:14 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 30.10.2026 17:14 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 31.10.2026 00:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 31.10.2026 01:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
