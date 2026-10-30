@@ -88,11 +88,11 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
 | 30.10.2026 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 29.10.2026 | 3 | 1 | 6 | 0 | 0 | 0 |
-| 28.10.2026 | 73 | 8 | 40 | 23 | 28 | 0 |
+| 29.10.2026 | 3 | 1 | 7 | 0 | 0 | 0 |
+| 28.10.2026 | 73 | 8 | 42 | 23 | 28 | 0 |
 | 27.10.2026 | 28 | 6 | 17 | 17 | 11 | 0 |
-| 26.10.2026 | 159 | 18 | 45 | 15 | 17 | 0 |
-| 25.10.2026 | 164 | 4 | 5 | 0 | 0 | 0 |
+| 26.10.2026 | 159 | 18 | 43 | 15 | 17 | 0 |
+| 25.10.2026 | 164 | 3 | 4 | 0 | 0 | 0 |
 | 24.10.2026 | 121 | — | — | — | — | — |
 
 <sub>— = older than the event window GitHub keeps / GitHub'ın olay kaydı süresinden eski</sub>
@@ -104,6 +104,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 29.10.2026 08:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 29.10.2026 07:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 29.10.2026 05:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
+| 29.10.2026 03:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 29.10.2026 02:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 29.10.2026 01:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 29.10.2026 00:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
@@ -112,9 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 28.10.2026 23:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 28.10.2026 22:19 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 28.10.2026 21:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 28.10.2026 20:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 
-<sub>Updated automatically / Otomatik güncellendi: 30.10.2026 10:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 30.10.2026 11:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
