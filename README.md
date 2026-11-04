@@ -87,12 +87,12 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 04.11.2026 | 42 | 3 | 0 | 19 | 17 | 0 |
-| 03.11.2026 | 102 | 6 | 2 | 29 | 29 | 0 |
-| 02.11.2026 | 173 | 11 | 32 | 0 | 3 | 0 |
-| 01.11.2026 | 261 | 22 | 85 | 0 | 0 | 0 |
+| 04.11.2026 | 52 | 3 | 0 | 24 | 24 | 0 |
+| 03.11.2026 | 108 | 6 | 3 | 29 | 29 | 0 |
+| 02.11.2026 | 173 | 9 | 35 | 0 | 0 | 0 |
+| 01.11.2026 | 261 | 19 | 80 | 0 | 0 | 0 |
 | 31.10.2026 | 97 | 2 | 0 | 0 | 0 | 0 |
-| 30.10.2026 | 186 | 1 | 1 | 0 | 0 | 0 |
+| 30.10.2026 | 186 | — | — | — | — | — |
 | 29.10.2026 | 3 | — | — | — | — | — |
 
 <sub>— = older than the event window GitHub keeps / GitHub'ın olay kaydı süresinden eski</sub>
@@ -101,20 +101,20 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
-| 04.11.2026 05:04 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 04.11.2026 05:04 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 04.11.2026 05:03 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 04.11.2026 05:02 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 04.11.2026 05:02 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 04.11.2026 04:50 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 04.11.2026 04:49 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 04.11.2026 04:37 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 04.11.2026 04:37 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 04.11.2026 04:37 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 04.11.2026 04:36 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 04.11.2026 04:25 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 04.11.2026 06:00 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 04.11.2026 05:59 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 04.11.2026 05:45 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 04.11.2026 05:45 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 04.11.2026 05:19 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 04.11.2026 05:19 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 04.11.2026 05:19 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 04.11.2026 05:18 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 04.11.2026 05:09 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 04.11.2026 05:09 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 04.11.2026 05:08 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 04.11.2026 05:08 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 04.11.2026 05:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 04.11.2026 06:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
