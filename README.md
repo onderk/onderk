@@ -87,8 +87,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 06.11.2026 | 127 | 4 | 14 | 53 | 45 | 0 |
-| 05.11.2026 | 232 | 21 | 35 | 41 | 41 | 0 |
+| 06.11.2026 | 133 | 4 | 15 | 53 | 48 | 0 |
+| 05.11.2026 | 232 | 21 | 35 | 35 | 37 | 0 |
 | 04.11.2026 | 217 | 3 | 6 | 0 | 0 | 0 |
 | 03.11.2026 | 108 | 3 | 5 | 0 | 0 | 0 |
 | 02.11.2026 | 173 | — | — | — | — | — |
@@ -101,6 +101,9 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 06.11.2026 09:33 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 06.11.2026 09:27 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 06.11.2026 09:27 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 06.11.2026 09:00 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 06.11.2026 08:50 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 06.11.2026 08:18 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
@@ -110,11 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 06.11.2026 08:05 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 06.11.2026 08:05 | 🔒 Private / Gizli | ⚪ PR closed / kapatıldı |  |
 | 06.11.2026 08:04 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 06.11.2026 07:59 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 06.11.2026 07:58 | 🔒 Private / Gizli | ⚪ PR closed / kapatıldı |  |
-| 06.11.2026 07:41 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 06.11.2026 09:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 06.11.2026 10:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
