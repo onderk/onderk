@@ -88,10 +88,10 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
 | 12.11.2026 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11.11.2026 | 152 | 7 | 3 | 51 | 50 | 0 |
-| 10.11.2026 | 116 | 9 | 31 | 38 | 38 | 0 |
-| 09.11.2026 | 169 | 15 | 36 | 0 | 0 | 0 |
-| 08.11.2026 | 606 | 5 | 15 | 0 | 0 | 0 |
+| 11.11.2026 | 152 | 7 | 4 | 51 | 50 | 0 |
+| 10.11.2026 | 116 | 9 | 33 | 38 | 38 | 0 |
+| 09.11.2026 | 169 | 15 | 34 | 0 | 0 | 0 |
+| 08.11.2026 | 606 | 5 | 10 | 0 | 0 | 0 |
 | 07.11.2026 | 0 | — | — | — | — | — |
 | 06.11.2026 | 330 | — | — | — | — | — |
 
@@ -114,7 +114,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 11.11.2026 16:13 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 11.11.2026 16:12 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 12.11.2026 02:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 12.11.2026 03:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
