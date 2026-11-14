@@ -87,13 +87,13 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 13.11.2026 | 276 | 25 | 7 | 106 | 100 | 0 |
-| 12.11.2026 | 222 | 9 | 14 | 9 | 13 | 0 |
-| 11.11.2026 | 152 | 8 | 19 | 0 | 0 | 0 |
+| 14.11.2026 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13.11.2026 | 276 | 26 | 17 | 101 | 99 | 0 |
+| 12.11.2026 | 222 | 10 | 27 | 0 | 0 | 0 |
+| 11.11.2026 | 152 | 7 | 16 | 0 | 0 | 0 |
 | 10.11.2026 | 116 | — | — | — | — | — |
 | 09.11.2026 | 169 | — | — | — | — | — |
 | 08.11.2026 | 606 | — | — | — | — | — |
-| 07.11.2026 | 0 | — | — | — | — | — |
 
 <sub>— = older than the event window GitHub keeps / GitHub'ın olay kaydı süresinden eski</sub>
 
@@ -109,12 +109,12 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 13.11.2026 16:42 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 13.11.2026 16:42 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 13.11.2026 15:02 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 13.11.2026 15:01 | 🔒 Private / Gizli | 🌿 Branch created / Dal açıldı |  |
 | 13.11.2026 14:53 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 13.11.2026 14:52 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 13.11.2026 14:42 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 13.11.2026 14:41 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 13.11.2026 18:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 14.11.2026 11:06 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
