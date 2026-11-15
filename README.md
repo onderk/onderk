@@ -89,7 +89,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
 | 15.11.2026 | 4 | 2 | 1 | 2 | 2 | 0 |
 | 14.11.2026 | 45 | 7 | 7 | 7 | 11 | 0 |
-| 13.11.2026 | 284 | 27 | 50 | 35 | 33 | 0 |
+| 13.11.2026 | 284 | 27 | 53 | 29 | 33 | 0 |
 | 12.11.2026 | 222 | 20 | 47 | 0 | 0 | 0 |
 | 11.11.2026 | 152 | 1 | 3 | 0 | 0 | 0 |
 | 10.11.2026 | 116 | — | — | — | — | — |
@@ -114,7 +114,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 14.11.2026 19:35 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 14.11.2026 19:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 
-<sub>Updated automatically / Otomatik güncellendi: 15.11.2026 08:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 15.11.2026 09:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
