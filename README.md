@@ -87,11 +87,11 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 15.11.2026 | 2 | 2 | 1 | 1 | 1 | 0 |
+| 15.11.2026 | 4 | 2 | 1 | 2 | 2 | 0 |
 | 14.11.2026 | 45 | 6 | 5 | 7 | 11 | 0 |
-| 13.11.2026 | 284 | 27 | 35 | 45 | 44 | 0 |
-| 12.11.2026 | 222 | 20 | 49 | 0 | 0 | 0 |
-| 11.11.2026 | 152 | 5 | 11 | 0 | 0 | 0 |
+| 13.11.2026 | 284 | 27 | 43 | 40 | 38 | 0 |
+| 12.11.2026 | 222 | 20 | 48 | 0 | 0 | 0 |
+| 11.11.2026 | 152 | 5 | 8 | 0 | 0 | 0 |
 | 10.11.2026 | 116 | — | — | — | — | — |
 | 09.11.2026 | 169 | — | — | — | — | — |
 
@@ -101,6 +101,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 15.11.2026 04:17 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 15.11.2026 04:16 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 15.11.2026 02:26 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 15.11.2026 02:25 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 15.11.2026 02:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
@@ -111,10 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 14.11.2026 19:35 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 14.11.2026 16:48 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 14.11.2026 16:47 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 14.11.2026 16:47 | 🔒 Private / Gizli | 🌿 Branch created / Dal açıldı |  |
-| 14.11.2026 16:45 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 15.11.2026 04:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 15.11.2026 05:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
