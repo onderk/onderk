@@ -87,11 +87,11 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 16.11.2026 | 7 | 3 | 1 | 4 | 3 | 0 |
+| 16.11.2026 | 25 | 6 | 2 | 8 | 8 | 0 |
 | 15.11.2026 | 31 | 7 | 13 | 5 | 4 | 0 |
 | 14.11.2026 | 48 | 7 | 14 | 7 | 11 | 0 |
-| 13.11.2026 | 284 | 27 | 69 | 0 | 0 | 0 |
-| 12.11.2026 | 222 | 20 | 42 | 0 | 0 | 0 |
+| 13.11.2026 | 284 | 27 | 68 | 0 | 0 | 0 |
+| 12.11.2026 | 222 | 20 | 36 | 0 | 0 | 0 |
 | 11.11.2026 | 152 | — | — | — | — | — |
 | 10.11.2026 | 116 | — | — | — | — | — |
 
@@ -101,20 +101,20 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 16.11.2026 11:33 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 16.11.2026 11:33 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 16.11.2026 11:33 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 16.11.2026 11:33 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 16.11.2026 11:26 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 16.11.2026 11:24 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 16.11.2026 11:23 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 16.11.2026 11:22 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 16.11.2026 11:22 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 16.11.2026 10:08 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 16.11.2026 07:44 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 16.11.2026 07:43 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 16.11.2026 05:29 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 16.11.2026 05:27 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 16.11.2026 04:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 16.11.2026 02:02 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 16.11.2026 02:01 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 16.11.2026 02:00 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 15.11.2026 21:24 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
-| 15.11.2026 19:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 15.11.2026 18:45 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
-| 15.11.2026 18:44 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 16.11.2026 11:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 16.11.2026 12:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
