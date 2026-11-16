@@ -87,11 +87,11 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 16.11.2026 | 25 | 6 | 2 | 8 | 8 | 0 |
-| 15.11.2026 | 31 | 7 | 13 | 5 | 4 | 0 |
+| 16.11.2026 | 30 | 7 | 2 | 9 | 9 | 0 |
+| 15.11.2026 | 31 | 7 | 14 | 5 | 4 | 0 |
 | 14.11.2026 | 48 | 7 | 14 | 7 | 11 | 0 |
 | 13.11.2026 | 284 | 27 | 68 | 0 | 0 | 0 |
-| 12.11.2026 | 222 | 20 | 36 | 0 | 0 | 0 |
+| 12.11.2026 | 222 | 20 | 35 | 0 | 0 | 0 |
 | 11.11.2026 | 152 | — | — | — | — | — |
 | 10.11.2026 | 116 | — | — | — | — | — |
 
@@ -101,6 +101,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 16.11.2026 12:30 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 16.11.2026 12:28 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 16.11.2026 11:33 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 16.11.2026 11:33 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 16.11.2026 11:33 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
@@ -111,10 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 16.11.2026 11:22 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 16.11.2026 11:22 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 16.11.2026 10:08 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 16.11.2026 07:44 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 16.11.2026 07:43 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 16.11.2026 12:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 16.11.2026 13:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
