@@ -87,11 +87,11 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 16.11.2026 | 161 | 28 | 12 | 56 | 55 | 0 |
-| 15.11.2026 | 39 | 7 | 18 | 5 | 4 | 0 |
+| 16.11.2026 | 164 | 28 | 14 | 59 | 55 | 0 |
+| 15.11.2026 | 39 | 7 | 19 | 4 | 3 | 0 |
 | 14.11.2026 | 57 | 7 | 13 | 0 | 0 | 0 |
-| 13.11.2026 | 303 | 26 | 56 | 0 | 0 | 0 |
-| 12.11.2026 | 244 | 1 | 2 | 0 | 0 | 0 |
+| 13.11.2026 | 303 | 26 | 54 | 0 | 0 | 0 |
+| 12.11.2026 | 244 | 1 | 0 | 0 | 0 | 0 |
 | 11.11.2026 | 153 | — | — | — | — | — |
 | 10.11.2026 | 116 | — | — | — | — | — |
 
@@ -101,6 +101,9 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 16.11.2026 21:13 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 16.11.2026 21:13 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 16.11.2026 21:13 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 16.11.2026 20:52 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 16.11.2026 20:52 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 16.11.2026 20:52 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
@@ -110,11 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 16.11.2026 20:35 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 16.11.2026 20:35 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 16.11.2026 20:35 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 16.11.2026 20:04 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 16.11.2026 20:04 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 16.11.2026 20:02 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 16.11.2026 21:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 16.11.2026 22:23 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
