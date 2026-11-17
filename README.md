@@ -87,13 +87,13 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 17.11.2026 | 151 | 30 | 15 | 45 | 47 | 0 |
-| 16.11.2026 | 186 | 28 | 41 | 41 | 44 | 0 |
+| 18.11.2026 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17.11.2026 | 151 | 30 | 16 | 45 | 47 | 0 |
+| 16.11.2026 | 186 | 28 | 43 | 38 | 40 | 0 |
 | 15.11.2026 | 39 | 5 | 19 | 0 | 0 | 0 |
 | 14.11.2026 | 57 | 3 | 3 | 0 | 0 | 0 |
 | 13.11.2026 | 307 | — | — | — | — | — |
 | 12.11.2026 | 244 | — | — | — | — | — |
-| 11.11.2026 | 153 | — | — | — | — | — |
 
 <sub>— = older than the event window GitHub keeps / GitHub'ın olay kaydı süresinden eski</sub>
 
@@ -114,7 +114,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 17.11.2026 14:37 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 17.11.2026 14:37 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 17.11.2026 23:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 18.11.2026 00:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
