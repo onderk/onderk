@@ -87,11 +87,11 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 17.11.2026 | 73 | 6 | 2 | 18 | 19 | 0 |
+| 17.11.2026 | 75 | 6 | 5 | 19 | 20 | 0 |
 | 16.11.2026 | 186 | 28 | 33 | 60 | 60 | 0 |
-| 15.11.2026 | 39 | 7 | 25 | 2 | 2 | 0 |
-| 14.11.2026 | 57 | 7 | 9 | 0 | 0 | 0 |
-| 13.11.2026 | 307 | 16 | 19 | 0 | 0 | 0 |
+| 15.11.2026 | 39 | 6 | 26 | 2 | 2 | 0 |
+| 14.11.2026 | 57 | 6 | 9 | 0 | 0 | 0 |
+| 13.11.2026 | 307 | 13 | 18 | 0 | 0 | 0 |
 | 12.11.2026 | 244 | — | — | — | — | — |
 | 11.11.2026 | 153 | — | — | — | — | — |
 
@@ -101,6 +101,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 17.11.2026 08:34 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 17.11.2026 08:32 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 17.11.2026 07:10 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 17.11.2026 07:08 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 17.11.2026 07:05 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
@@ -111,10 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 17.11.2026 04:46 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 17.11.2026 04:27 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 17.11.2026 04:26 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 17.11.2026 04:15 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 17.11.2026 04:14 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 17.11.2026 08:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 17.11.2026 09:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
