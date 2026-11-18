@@ -87,13 +87,13 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 18.11.2026 | 78 | 27 | 2 | 35 | 29 | 0 |
-| 17.11.2026 | 161 | 30 | 44 | 45 | 46 | 0 |
-| 16.11.2026 | 186 | 14 | 38 | 0 | 0 | 0 |
-| 15.11.2026 | 39 | 4 | 13 | 0 | 0 | 0 |
+| 19.11.2026 | 2 | 1 | 0 | 1 | 1 | 0 |
+| 18.11.2026 | 94 | 27 | 4 | 35 | 29 | 0 |
+| 17.11.2026 | 161 | 30 | 45 | 42 | 43 | 0 |
+| 16.11.2026 | 186 | 14 | 37 | 0 | 0 | 0 |
+| 15.11.2026 | 39 | 4 | 12 | 0 | 0 | 0 |
 | 14.11.2026 | 57 | — | — | — | — | — |
 | 13.11.2026 | 307 | — | — | — | — | — |
-| 12.11.2026 | 244 | — | — | — | — | — |
 
 <sub>— = older than the event window GitHub keeps / GitHub'ın olay kaydı süresinden eski</sub>
 
@@ -101,6 +101,9 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 19.11.2026 00:03 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 19.11.2026 00:01 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 18.11.2026 23:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 18.11.2026 20:30 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 18.11.2026 20:27 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 18.11.2026 19:35 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
@@ -110,11 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 18.11.2026 18:42 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 18.11.2026 18:40 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 18.11.2026 18:00 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 18.11.2026 17:57 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 18.11.2026 17:02 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 18.11.2026 17:00 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 18.11.2026 23:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 19.11.2026 00:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
