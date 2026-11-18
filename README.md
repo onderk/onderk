@@ -87,10 +87,10 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 18.11.2026 | 76 | 27 | 1 | 34 | 28 | 0 |
-| 17.11.2026 | 161 | 30 | 44 | 45 | 47 | 0 |
-| 16.11.2026 | 186 | 14 | 39 | 0 | 0 | 0 |
-| 15.11.2026 | 39 | 4 | 15 | 0 | 0 | 0 |
+| 18.11.2026 | 78 | 27 | 1 | 35 | 29 | 0 |
+| 17.11.2026 | 161 | 30 | 44 | 45 | 46 | 0 |
+| 16.11.2026 | 186 | 14 | 38 | 0 | 0 | 0 |
+| 15.11.2026 | 39 | 4 | 13 | 0 | 0 | 0 |
 | 14.11.2026 | 57 | — | — | — | — | — |
 | 13.11.2026 | 307 | — | — | — | — | — |
 | 12.11.2026 | 244 | — | — | — | — | — |
@@ -101,6 +101,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 18.11.2026 20:30 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
+| 18.11.2026 20:27 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 18.11.2026 19:35 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 18.11.2026 19:32 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 18.11.2026 19:11 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
@@ -111,10 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 18.11.2026 17:57 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 18.11.2026 17:02 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 18.11.2026 17:00 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
-| 18.11.2026 16:18 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 18.11.2026 16:16 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 18.11.2026 20:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 18.11.2026 21:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
