@@ -87,11 +87,11 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 19.11.2026 | 56 | 3 | 2 | 14 | 14 | 0 |
-| 18.11.2026 | 94 | 28 | 15 | 35 | 29 | 0 |
-| 17.11.2026 | 161 | 30 | 49 | 27 | 28 | 0 |
+| 19.11.2026 | 56 | 4 | 3 | 14 | 14 | 0 |
+| 18.11.2026 | 94 | 28 | 17 | 35 | 29 | 0 |
+| 17.11.2026 | 161 | 30 | 48 | 27 | 28 | 0 |
 | 16.11.2026 | 186 | 12 | 25 | 0 | 0 | 0 |
-| 15.11.2026 | 39 | 3 | 6 | 0 | 0 | 0 |
+| 15.11.2026 | 39 | 2 | 5 | 0 | 0 | 0 |
 | 14.11.2026 | 57 | — | — | — | — | — |
 | 13.11.2026 | 307 | — | — | — | — | — |
 
@@ -105,6 +105,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 19.11.2026 16:53 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 19.11.2026 13:30 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 19.11.2026 13:29 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
+| 19.11.2026 12:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 19.11.2026 11:24 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 19.11.2026 08:49 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 19.11.2026 08:47 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
@@ -112,9 +113,8 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 19.11.2026 04:39 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 19.11.2026 04:37 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 19.11.2026 04:18 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
-| 19.11.2026 04:16 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 19.11.2026 17:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 19.11.2026 18:37 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
