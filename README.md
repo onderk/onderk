@@ -87,7 +87,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 20.11.2026 | 2 | 2 | 4 | 0 | 0 | 0 |
+| 20.11.2026 | 4 | 2 | 4 | 0 | 0 | 0 |
 | 19.11.2026 | 57 | 5 | 13 | 15 | 14 | 0 |
 | 18.11.2026 | 94 | 28 | 32 | 35 | 29 | 0 |
 | 17.11.2026 | 161 | 24 | 43 | 10 | 15 | 0 |
@@ -114,7 +114,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 19.11.2026 16:55 | 🔒 Private / Gizli | 🟣 PR merged / birleştirildi |  |
 | 19.11.2026 16:53 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 20.11.2026 12:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 20.11.2026 13:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
