@@ -87,10 +87,10 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 20.11.2026 | 13 | 4 | 6 | 0 | 0 | 0 |
-| 19.11.2026 | 57 | 5 | 15 | 15 | 14 | 0 |
+| 20.11.2026 | 15 | 4 | 8 | 0 | 0 | 0 |
+| 19.11.2026 | 57 | 5 | 16 | 15 | 14 | 0 |
 | 18.11.2026 | 94 | 28 | 34 | 35 | 29 | 0 |
-| 17.11.2026 | 161 | 22 | 43 | 3 | 13 | 0 |
+| 17.11.2026 | 161 | 21 | 43 | 3 | 9 | 0 |
 | 16.11.2026 | 186 | 11 | 20 | 0 | 0 | 0 |
 | 15.11.2026 | 39 | 2 | 4 | 0 | 0 | 0 |
 | 14.11.2026 | 57 | — | — | — | — | — |
@@ -107,14 +107,14 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 20.11.2026 04:21 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 04:02 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 03:52 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
+| 20.11.2026 02:24 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
+| 20.11.2026 02:20 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
 | 19.11.2026 23:02 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 19.11.2026 22:56 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 19.11.2026 22:51 | 🔒 Private / Gizli | 🟢 PR opened / açıldı |  |
 | 19.11.2026 22:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 19.11.2026 21:04 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
-| 19.11.2026 20:33 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 20.11.2026 19:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 20.11.2026 20:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
