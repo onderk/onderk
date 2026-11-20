@@ -87,12 +87,12 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 20.11.2026 | 15 | 4 | 12 | 0 | 0 | 0 |
-| 19.11.2026 | 57 | 5 | 17 | 15 | 14 | 0 |
+| 20.11.2026 | 15 | 5 | 15 | 0 | 0 | 0 |
+| 19.11.2026 | 57 | 5 | 19 | 15 | 14 | 0 |
 | 18.11.2026 | 94 | 28 | 34 | 35 | 29 | 0 |
-| 17.11.2026 | 161 | 21 | 42 | 2 | 8 | 0 |
+| 17.11.2026 | 161 | 21 | 42 | 2 | 4 | 0 |
 | 16.11.2026 | 186 | 11 | 18 | 0 | 0 | 0 |
-| 15.11.2026 | 39 | 2 | 4 | 0 | 0 | 0 |
+| 15.11.2026 | 39 | 2 | 3 | 0 | 0 | 0 |
 | 14.11.2026 | 57 | — | — | — | — | — |
 
 <sub>— = older than the event window GitHub keeps / GitHub'ın olay kaydı süresinden eski</sub>
@@ -101,20 +101,20 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 20.11.2026 22:26 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
+| 20.11.2026 20:22 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
 | 20.11.2026 11:23 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 11:21 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 05:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 20.11.2026 04:21 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 04:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 20.11.2026 04:02 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
+| 20.11.2026 03:59 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 03:54 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 03:52 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 03:47 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
-| 20.11.2026 03:28 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
-| 20.11.2026 02:24 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
-| 20.11.2026 02:20 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 20.11.2026 22:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 20.11.2026 23:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
