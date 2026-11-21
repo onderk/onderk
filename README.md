@@ -88,11 +88,11 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
 | 21.11.2026 | 0 | 2 | 5 | 0 | 0 | 0 |
-| 20.11.2026 | 15 | 7 | 22 | 0 | 0 | 0 |
-| 19.11.2026 | 57 | 7 | 32 | 15 | 14 | 0 |
+| 20.11.2026 | 15 | 7 | 26 | 0 | 0 | 0 |
+| 19.11.2026 | 57 | 7 | 35 | 15 | 14 | 0 |
 | 18.11.2026 | 94 | 28 | 34 | 35 | 29 | 0 |
-| 17.11.2026 | 161 | 17 | 36 | 0 | 0 | 0 |
-| 16.11.2026 | 186 | 11 | 14 | 0 | 0 | 0 |
+| 17.11.2026 | 161 | 17 | 35 | 0 | 0 | 0 |
+| 16.11.2026 | 186 | 10 | 11 | 0 | 0 | 0 |
 | 15.11.2026 | 39 | — | — | — | — | — |
 
 <sub>— = older than the event window GitHub keeps / GitHub'ın olay kaydı süresinden eski</sub>
@@ -107,14 +107,14 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 21.11.2026 00:12 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
 | 21.11.2026 00:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 20.11.2026 22:26 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
+| 20.11.2026 22:25 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 20:22 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
 | 20.11.2026 19:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 20.11.2026 12:41 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
-| 20.11.2026 11:23 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
-| 20.11.2026 11:22 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
-| 20.11.2026 11:21 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
+| 20.11.2026 14:41 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
+| 20.11.2026 14:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
+| 20.11.2026 13:56 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 21.11.2026 11:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 21.11.2026 12:45 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
