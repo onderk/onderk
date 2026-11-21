@@ -87,12 +87,12 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Day / Gün | Contributions / Katkı | Active repos / Aktif depo | Pushes / Gönderim | PRs opened / Açılan PR | PRs merged / Birleşen PR | New repos / Yeni depo |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| 21.11.2026 | 0 | 2 | 3 | 0 | 0 | 0 |
-| 20.11.2026 | 15 | 5 | 17 | 0 | 0 | 0 |
-| 19.11.2026 | 57 | 6 | 26 | 15 | 14 | 0 |
+| 21.11.2026 | 0 | 2 | 4 | 0 | 0 | 0 |
+| 20.11.2026 | 15 | 6 | 20 | 0 | 0 | 0 |
+| 19.11.2026 | 57 | 6 | 27 | 15 | 14 | 0 |
 | 18.11.2026 | 94 | 28 | 34 | 35 | 29 | 0 |
-| 17.11.2026 | 161 | 21 | 38 | 1 | 1 | 0 |
-| 16.11.2026 | 186 | 11 | 15 | 0 | 0 | 0 |
+| 17.11.2026 | 161 | 21 | 38 | 0 | 0 | 0 |
+| 16.11.2026 | 186 | 11 | 14 | 0 | 0 | 0 |
 | 15.11.2026 | 39 | — | — | — | — | — |
 
 <sub>— = older than the event window GitHub keeps / GitHub'ın olay kaydı süresinden eski</sub>
@@ -101,20 +101,20 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 
 | Time / Zaman (TRT) | Project / Proje | Event / Olay | Detail / Ayrıntı |
 |:--|:--|:--|:--|
+| 21.11.2026 05:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 21.11.2026 03:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 21.11.2026 00:12 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
 | 21.11.2026 00:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 20.11.2026 22:26 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 20:22 | 🔒 Private / Gizli | ⬆️ Push · 2 commit |  |
+| 20.11.2026 19:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 20.11.2026 11:23 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
+| 20.11.2026 11:22 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 11:21 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
+| 20.11.2026 11:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 | 20.11.2026 10:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 20.11.2026 08:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 20.11.2026 05:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
-| 20.11.2026 04:21 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
-| 20.11.2026 04:05 | [onderk](https://github.com/onderk/onderk) | ⬆️ Push · 1 commit | main |
 
-<sub>Updated automatically / Otomatik güncellendi: 21.11.2026 06:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 21.11.2026 07:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
