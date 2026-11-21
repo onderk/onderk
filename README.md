@@ -89,9 +89,9 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
 | 21.11.2026 | 0 | 2 | 5 | 0 | 0 | 0 |
 | 20.11.2026 | 15 | 7 | 22 | 0 | 0 | 0 |
-| 19.11.2026 | 57 | 7 | 30 | 15 | 14 | 0 |
+| 19.11.2026 | 57 | 7 | 32 | 15 | 14 | 0 |
 | 18.11.2026 | 94 | 28 | 34 | 35 | 29 | 0 |
-| 17.11.2026 | 161 | 18 | 37 | 0 | 0 | 0 |
+| 17.11.2026 | 161 | 17 | 36 | 0 | 0 | 0 |
 | 16.11.2026 | 186 | 11 | 14 | 0 | 0 | 0 |
 | 15.11.2026 | 39 | — | — | — | — | — |
 
@@ -114,7 +114,7 @@ Bugün bu donanım birikimini IoT bağlantısı, sade web arayüzleri ve yapay z
 | 20.11.2026 11:22 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 | 20.11.2026 11:21 | 🔒 Private / Gizli | ⬆️ Push · 1 commit |  |
 
-<sub>Updated automatically / Otomatik güncellendi: 21.11.2026 10:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
+<sub>Updated automatically / Otomatik güncellendi: 21.11.2026 11:05 TRT · private work shows counts only / gizli işlerde yalnız sayılar gösterilir</sub>
 
 <!--ACTIVITY:END-->
 
